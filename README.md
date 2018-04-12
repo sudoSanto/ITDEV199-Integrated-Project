@@ -1,3 +1,3 @@
-ITDEV199-Integrated-Project
+ITDEV199 Integrated Project
 ------
 ### MATC Spring 2019
